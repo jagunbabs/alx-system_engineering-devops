@@ -1,1 +1,1 @@
-Display current directory content in a long format
+Create a script that creates a directory named
